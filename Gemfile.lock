@@ -1,0 +1,14 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    github-markdown (0.6.5)
+    mini_magick (3.7.0)
+      subexec (~> 0.2.1)
+    subexec (0.2.3)
+
+PLATFORMS
+  x86-mingw32
+
+DEPENDENCIES
+  github-markdown (~> 0.6.5)
+  mini_magick
